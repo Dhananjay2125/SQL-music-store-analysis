@@ -88,10 +88,7 @@ WHERE milliseconds > (
 ORDER BY milliseconds DESC;
 
 
--- Find how much amount spent by each customer on artists? 
---Write a query to return customer name, artist name and total spent 
 
-select * from 
 
 
 
